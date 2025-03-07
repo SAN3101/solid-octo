@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+authentication.js
+node_modules/
+notes/
+**/*-todo.md
+
+can write anytype of file/folder, folder has / at the end
